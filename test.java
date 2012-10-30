@@ -23,6 +23,7 @@ public class SuchSortierAlg {
 	 * Damit die Methode funktioniert, muss das gegebene Array sortiert sein. 
 	 */
 	
+	System.out.pr
 	public static int suche(final int zahl, final int[] daten) {
 	        int erstes = 0;
 	        int letztes = daten.length - 1;
